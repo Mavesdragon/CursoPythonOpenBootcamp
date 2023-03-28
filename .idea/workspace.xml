@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1c344f36-57d6-4463-afcf-81b3447b0167" name="Changes" comment="Primer proyecto curso python 25032023">
-      <change afterPath="$PROJECT_DIR$/demoCurso/Ejercicio 5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demoCurso/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/demoCurso/Ejercicio4CursoPython.py" afterDir="false" />
-    </list>
+    <list default="true" id="1c344f36-57d6-4463-afcf-81b3447b0167" name="Changes" comment="Primer proyecto curso python 25032023" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -76,7 +72,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680018453824</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Primer proyecto curso python 25032023">
+      <created>1680022174203</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1680022174203</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

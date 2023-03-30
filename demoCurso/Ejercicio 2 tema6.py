@@ -12,5 +12,5 @@ class Alumno:
 
 a = Alumno('Pedro', 5)
 
-print(a.isAbrobado(4))
+print(a.isAbrobado(10))
 

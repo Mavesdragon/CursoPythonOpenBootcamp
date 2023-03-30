@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1c344f36-57d6-4463-afcf-81b3447b0167" name="Changes" comment="30032023">
-      <change beforePath="$PROJECT_DIR$/demoCurso/Ejercicio 2 tema6.py" beforeDir="false" afterPath="$PROJECT_DIR$/demoCurso/Ejercicio 2 tema6.py" afterDir="false" />
-    </list>
+    <list default="true" id="1c344f36-57d6-4463-afcf-81b3447b0167" name="Changes" comment="30032023" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -129,7 +127,21 @@
       <option name="project" value="LOCAL" />
       <updated>1680163048915</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="30032023">
+      <created>1680163684001</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1680163684001</updated>
+    </task>
+    <task id="LOCAL-00012" summary="30032023">
+      <created>1680163731354</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1680163731354</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

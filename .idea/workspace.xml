@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1c344f36-57d6-4463-afcf-81b3447b0167" name="Changes" comment="30032023" />
+    <list default="true" id="1c344f36-57d6-4463-afcf-81b3447b0167" name="Changes" comment="30032023">
+      <change beforePath="$PROJECT_DIR$/demoCurso/ejercicio 2 tema7/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/demoCurso/ejercicio 2 tema7/main.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -155,7 +157,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680169924007</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="30032023">
+      <created>1680170103914</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1680170103914</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

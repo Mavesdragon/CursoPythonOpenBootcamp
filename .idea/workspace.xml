@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1c344f36-57d6-4463-afcf-81b3447b0167" name="Changes" comment="30032023" />
+    <list default="true" id="1c344f36-57d6-4463-afcf-81b3447b0167" name="Changes" comment="30032023">
+      <change afterPath="$PROJECT_DIR$/Curso Python OpenBootcamp/Tema8 Curso Python/Ejercicio 1 tema8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Curso Python OpenBootcamp/Tema8 Curso Python/datos.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -176,7 +180,21 @@
       <option name="project" value="LOCAL" />
       <updated>1680249016207</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="30032023">
+      <created>1680249041862</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1680249041862</updated>
+    </task>
+    <task id="LOCAL-00019" summary="30032023">
+      <created>1680253974737</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1680253974737</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

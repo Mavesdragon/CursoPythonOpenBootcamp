@@ -1,4 +1,4 @@
-
+import pickle
 class Vehiculo:
     marca = ''
     modelo = ''
@@ -11,3 +11,8 @@ class Vehiculo:
 
 v1 = Vehiculo('Volvo', 'Penta', 2000)
 
+f = open('datos.bin', 'rb')
+
+volvo = pickle.load(f)
+
+print(volvo.modelo)

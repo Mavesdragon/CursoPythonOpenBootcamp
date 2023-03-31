@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1c344f36-57d6-4463-afcf-81b3447b0167" name="Changes" comment="30032023">
-      <change afterPath="$PROJECT_DIR$/Curso Python OpenBootcamp/Tema8 Curso Python/Ejercicio 1 tema8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Curso Python OpenBootcamp/Tema8 Curso Python/datos.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Curso Python OpenBootcamp/Tema8 Curso Python/Ejercicio 2 tema8.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -194,7 +192,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680253974737</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="30032023">
+      <created>1680255041468</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1680255041468</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
